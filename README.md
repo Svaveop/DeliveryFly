@@ -1,4 +1,4 @@
 # DeliveryFly
-## Made in TUMO (link in bio)
+## Made in [TUMO](https://tumo.org/)
 Run with Xcode (recomended).
 If there is a need I can provide <em>.xcodeproj</em> code too.

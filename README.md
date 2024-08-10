@@ -1,2 +1,3 @@
 # DeliveryFly
-Swift UI
+### Swift UI
+Run with Xcode (recomended)
